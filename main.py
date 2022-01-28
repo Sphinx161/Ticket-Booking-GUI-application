@@ -330,8 +330,8 @@ class Reservation:
                 message["From"] = "Railways"
 
                 # username and password
-                username = 'dummy.org.123@gmail.com'
-                password = 'dummy@123'
+                username = # add your email, keep access less secure option in mail settings on 
+                password = # password of your email
                 print("in book mail: ", data)
                 receiver = data[1]
 
